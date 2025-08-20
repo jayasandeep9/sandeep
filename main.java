@@ -17,7 +17,7 @@ class Book {
     }
 
     public String getAuthor() {
-        return author;
+         author;
     }
 
     public boolean isBorrowed() {
